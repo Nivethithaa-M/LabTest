@@ -1,0 +1,21 @@
+Installations
+
+npm install @react-navigation/native
+
+expo install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/stack
+
+npm install react-native-gesture-handler@1.10.3
+
+expo install @react-native-masked-view/masked-view
+
+npm install react-native-elements
+
+npm install @react-navigation/drawer
+
+npm install @react-navigation/native-stack
+
+npm install firebase@8.10.0
+
+npm install react-native-maps
