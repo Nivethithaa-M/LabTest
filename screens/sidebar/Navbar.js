@@ -10,7 +10,7 @@ const Drawer = createDrawerNavigator();
 
 function Navbar() {
   return (
-    <Drawer.Navigator initialRouteName="Profile">
+    <Drawer.Navigator initialRouteName="Display">
       <Drawer.Screen
         name="Form"
         component={Form}
